@@ -1,0 +1,9 @@
+We work in the sections
+
+1. The model training section, which takes in train data and spits out a model
+2. The model created will have functions to interact with it(APIs)
+3. The frontend part which uses above API to provide info (keeping this for single input only)
+
+
+Maybe we add a bulk input function in API section for submitting the answers. 
+
